@@ -10,6 +10,8 @@
 An electronics engineer interested in digital design, FPGAs, embedded systems
 and other things.
 
+[Contact](contact.md) [Follow](follow.md)
+
 I got my BSc and MSc degrees from the same department,
 [METU](https://www.metu.edu.tr/) EEE, in 2012 and 2015, respectively. My
 master's thesis was about statistical signal processing. In the past, I was
@@ -288,17 +290,8 @@ musical instruments 🎵.
 
 Trying playing various musical instruments
 
-## Profile
+## Follow
 
-[orcid (0000-0002-0904-9623)](https://orcid.org/0000-0002-0904-9623), [google
-scholar](https://scholar.google.com.tr/citations?hl=tr&user=yLCD7acAAAAJ),
-[publons (E-7451-2019)](https://publons.com/researcher/E-7451-2019/),
-[researchgate](https://www.researchgate.net/profile/Alper-Yazar),
-[github](https://github.com/alperyazar), [youtube](https://youtube.com/@ayazar),
-[linkedin](https://www.linkedin.com/in/alperyazar),
-[hackaday](https://hackaday.io/ayazar),
-[twitter](https://twitter.com/alper_yazar),
-[reddit](https://www.reddit.com/user/ayazar/), [stack exchange
-(overflow)](https://stackexchange.com/users/1966184/alper-y)
+See [Follow](follow.md)
 
 <!-- markdownlint-restore -->
