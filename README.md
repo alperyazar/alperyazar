@@ -3,7 +3,7 @@
 - 🙋 [About me](about.md)
 - ✉️ [Contact](contact.md)
 - ➡️ [Follow](follow.md)
-- 🎨 [mixtum](https://github.com/alperyazar/mixtum)
+- ✍️ [Blog](https://blog.ayazar.dev)
 
 ---
 
