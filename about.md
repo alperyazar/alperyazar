@@ -241,6 +241,8 @@ musical instruments 🎵.
 
 ### Embedded/Software
 
+- Embedded Linux using Yocto. 2023. Udemy. 4.5 hours.
+  [Certificate](https://www.udemy.com/certificate/UC-ef18181d-5d2d-44c5-b7e0-45ec67c2adc3/)
 - The C Programming Language (in Turkish). 2022. [C and System Programmers
   Association](https://csystem.org/), Kaan Aslan. 120 hours.†
 - FreeRTOS Real-Time Programming. 2018. Doulos. 24 hours.†
