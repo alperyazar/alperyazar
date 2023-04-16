@@ -10,7 +10,8 @@
 An electronics engineer interested in digital design, FPGAs, embedded systems
 and other things.
 
-[Contact](contact.md) [Follow](follow.md) [Blog](https://blog.ayazar.dev)
+[✉️ Contact](contact.md) [➡️ Follow](follow.md) [🎨
+mixtum](https://github.com/alperyazar/mixtum)
 
 I got my BSc and MSc degrees from the same department,
 [METU](https://www.metu.edu.tr/) EEE, in 2012 and 2015, respectively. My
@@ -294,6 +295,6 @@ Trying playing various musical instruments
 
 ## Follow
 
-See [Follow](follow.md)
+See [➡️ Follow](follow.md)
 
 <!-- markdownlint-restore -->

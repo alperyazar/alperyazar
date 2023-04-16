@@ -1,8 +1,8 @@
 # ➡️ Follow me
 
 I recommend following me on [LinkedIn](https://www.linkedin.com/in/alperyazar)
-or [Twitter](https://twitter.com/alper_yazar) to get notified when I write a new
-[blog](https://blog.ayazar.dev) post. I usually share my posts on these platforms.
+or [Twitter](https://twitter.com/alper_yazar). I usually share my posts on these
+platforms.
 
 Here the list of my profiles on some platforms:
 
