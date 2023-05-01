@@ -10,6 +10,7 @@
 An electronics engineer interested in digital design, FPGAs, embedded systems
 and other things.
 
+[💠 Wiki](https://wiki.ayazar.dev)
 [✉️ Contact](contact.md) [➡️ Follow](follow.md)
 
 I got my BSc and MSc degrees from the same department,
