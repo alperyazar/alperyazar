@@ -1,6 +1,5 @@
 # Alper Yazar
 
-- 🙋 [About me](about.md)
-- 💠 [Wiki](https://wiki.ayazar.dev)
-- ✉️ [Contact](contact.md)
-- ➡️ [Follow](follow.md)
+- 🏠 <https://ayazar.dev>
+
+![Alper Yazar Github Stats](https://github-readme-stats.vercel.app/api?username=alperyazar&show_icons=true)
