@@ -1,6 +1,6 @@
-# Podcast
+# 🎤 Podcast (🇹🇷)
 
-> 🇹🇷 Since I publish a Turkish podcast, this page is only availabel in Turkish
+> 🇹🇷 Since I publish a Turkish podcast, this page is only available in Turkish
 > for now.
 
 İçerik üretip, bir şeyler paylaşmayı seviyorum fakat buna da üşendiğim için
