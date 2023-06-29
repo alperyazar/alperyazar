@@ -1,8 +1,7 @@
 # ➡️ Follow me
 
-I recommend following me on [LinkedIn](https://www.linkedin.com/in/alperyazar)
-or [Twitter](https://twitter.com/alper_yazar). I usually share my posts on these
-platforms.
+I recommend following me on [LinkedIn](https://www.linkedin.com/in/alperyazar).
+Usually, I share my posts on this platform.
 
 Here the list of my profiles on some platforms:
 
