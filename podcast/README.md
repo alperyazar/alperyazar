@@ -19,9 +19,8 @@ Yayınlanmış bölümler.
 
 ### Kod ile beraber Visual Studio Code eklentileri öneriyoruz
 
-[YouTube](https://www.youtube.com/watch?v=pWFg0wpOgqA)
+[![YouTube](http://i3.ytimg.com/vi/pWFg0wpOgqA/hqdefault.jpg)](https://www.youtube.com/watch?v=pWFg0wpOgqA)
 
 ### Duyuru: Yeni Yayın Formatım (Podcast)
 
-[YouTube](https://www.youtube.com/watch?v=WiEeYYUhRjs)
-[Spotify](https://podcasters.spotify.com/pod/show/alper-yazar/episodes/Duyuru-Yeni-Yayn-Formatm-Podcast-e1nuqv4)
+[![YouTube](http://i3.ytimg.com/vi/WiEeYYUhRjs/hqdefault.jpg)](https://www.youtube.com/watch?v=WiEeYYUhRjs)
