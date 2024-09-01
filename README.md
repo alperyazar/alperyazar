@@ -9,6 +9,8 @@
 
 [![Alper Yazar
 LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alperyazar)
+[![Full Stack
+Elektronik](https://img.shields.io/badge/Full%20Stack%20Elektronik-ffffff?logo=youtube&logoColor=ff0000&style=for-the-badge)](https://www.youtube.com/@FSElektronik)
 [![Alper Yazar
 Mastodon](https://img.shields.io/badge/mastodon-160639?logo=mastodon&logoColor=5c4de3&style=for-the-badge)](https://mastodon.social/@ayazar)
 
@@ -16,7 +18,7 @@ Mastodon](https://img.shields.io/badge/mastodon-160639?logo=mastodon&logoColor=5
 
 📝[Blog](blog/README.md)
 
-# About me
+## About me
 
 I got my BSc and MSc degrees from the same department,
 [METU](https://www.metu.edu.tr/) EEE, in 2012 and 2015, respectively. My
@@ -51,6 +53,17 @@ or send a message on
 [LinkedIn](https://www.linkedin.com/in/alperyazar).
 
 ## Education
+
+- 🪦 Not Completed, **PhD, Electrical and Electronics Engineering**. Middle East
+  Technical University (METU), Ankara, Turkey.
+    - Area of Study: Heterogeneous Architectures and Cloud
+    - Thesis Topic: Reconfigurable and Composable Hardware Accelerators to
+      Provide Quality of Service (QoS) in Cloud Computing
+    - Advisor: [Prof. Ece Güran Schmidt](https://users.metu.edu.tr/eguran/)
+    - Field: Computers
+    - CGPA: 3.75/4.00
+    - ℹ️ Began PhD studies in 2016, successfully passed the qualification exam,
+      and progressed to the thesis stage before deciding to leave the program.
 
 - 2015, **MSc, Electrical and Electronics Engineering**. Middle East Technical
   University (METU), Ankara, Turkey.
@@ -266,6 +279,8 @@ or send a message on
 
 ### Embedded/Software
 
+- A'dan Z'ye Docker (in Turkish). 2024. Udemy. 16.5 hours.
+  [Certificate](dow/UC-f3003103-2c5b-4496-803c-4488557a4408-small.png)
 - C Programming Language (in Turkish). 2023. [C and System Programmers
   Association](https://csystem.org/), [Necati
   Ergin](https://github.com/necatiergin/). 220 hours.†
@@ -322,9 +337,32 @@ Trying playing various musical instruments
 
 <!-- markdownlint-restore -->
 
+## Follow
+
+I recommend following me on [LinkedIn](https://www.linkedin.com/in/alperyazar).
+I usually share my posts on that platform.
+
+Here the list of my profiles on some platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/alperyazar)
+- [mastodon](https://mastodon.social/@ayazar)
+- [Twitter](https://twitter.com/alper_yazar), moving to [mastodon](https://mastodon.social/@ayazar)
+- [GitHub](https://github.com/alperyazar)
+- [Full Stack Elektronik (YouTube, in Turkish)](https://www.youtube.com/@FSElektronik)
+- [Reddit](https://www.reddit.com/user/ayazar/)
+- [Stack Exchange (Overflow)](https://stackexchange.com/users/1966184/alper-y)
+- [Hackaday](https://hackaday.io/ayazar)
+
+Academic:
+
+- [0000-0002-0904-9623](https://orcid.org/0000-0002-0904-9623)
+- [Google Scholar](https://scholar.google.com.tr/citations?hl=tr&user=yLCD7acAAAAJ)
+- [E-7451-2019](https://publons.com/researcher/E-7451-2019/)
+- [Alper-Yazar](https://www.researchgate.net/profile/Alper-Yazar)
+
 ---
 
-# Some Stats
+## Some Stats
 
 ![Alper Yazar Github Stats](https://github-readme-stats.vercel.app/api?username=alperyazar&show_icons=true)
 
